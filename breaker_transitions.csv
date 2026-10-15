@@ -1,0 +1,433 @@
+elapsed_s,from,to,reason,cooldown_s
+50.348,closed,open,consecutive failures,2.0
+52.357,open,half-open,cooldown elapsed,0.0
+52.377,half-open,closed,half-open probes succeeded,0.0
+101.500,closed,open,consecutive failures,2.0
+103.501,open,half-open,cooldown elapsed,0.0
+103.533,half-open,closed,half-open probes succeeded,0.0
+151.916,closed,open,consecutive failures,2.0
+153.936,open,half-open,cooldown elapsed,0.0
+153.961,half-open,closed,half-open probes succeeded,0.0
+227.943,closed,open,consecutive failures,2.0
+229.958,open,half-open,cooldown elapsed,0.0
+229.988,half-open,closed,half-open probes succeeded,0.0
+277.908,closed,open,consecutive failures,2.0
+279.928,open,half-open,cooldown elapsed,0.0
+279.959,half-open,closed,half-open probes succeeded,0.0
+330.755,closed,open,consecutive failures,2.0
+332.766,open,half-open,cooldown elapsed,0.0
+332.801,half-open,closed,half-open probes succeeded,0.0
+405.875,closed,open,consecutive failures,2.0
+407.875,open,half-open,cooldown elapsed,0.0
+407.892,half-open,closed,half-open probes succeeded,0.0
+455.810,closed,open,consecutive failures,2.0
+457.811,open,half-open,cooldown elapsed,0.0
+457.845,half-open,closed,half-open probes succeeded,0.0
+529.954,closed,open,consecutive failures,2.0
+531.970,open,half-open,cooldown elapsed,0.0
+532.001,half-open,closed,half-open probes succeeded,0.0
+579.586,closed,open,consecutive failures,2.0
+581.592,open,half-open,cooldown elapsed,0.0
+581.624,half-open,closed,half-open probes succeeded,0.0
+629.731,closed,open,consecutive failures,2.0
+631.738,open,half-open,cooldown elapsed,0.0
+631.768,half-open,closed,half-open probes succeeded,0.0
+679.298,closed,open,consecutive failures,2.0
+681.316,open,half-open,cooldown elapsed,0.0
+681.338,half-open,closed,half-open probes succeeded,0.0
+769.974,closed,open,consecutive failures,2.0
+771.994,open,half-open,cooldown elapsed,0.0
+772.026,half-open,closed,half-open probes succeeded,0.0
+819.395,closed,open,consecutive failures,2.0
+821.397,open,half-open,cooldown elapsed,0.0
+821.424,half-open,closed,half-open probes succeeded,0.0
+869.924,closed,open,consecutive failures,2.0
+871.944,open,half-open,cooldown elapsed,0.0
+871.965,half-open,closed,half-open probes succeeded,0.0
+919.349,closed,open,consecutive failures,2.0
+921.351,open,half-open,cooldown elapsed,0.0
+921.378,half-open,closed,half-open probes succeeded,0.0
+969.590,closed,open,consecutive failures,2.0
+971.609,open,half-open,cooldown elapsed,0.0
+971.640,half-open,closed,half-open probes succeeded,0.0
+1019.566,closed,open,consecutive failures,2.0
+1021.583,open,half-open,cooldown elapsed,0.0
+1021.617,half-open,closed,half-open probes succeeded,0.0
+1069.673,closed,open,consecutive failures,2.0
+1071.673,open,half-open,cooldown elapsed,0.0
+1071.707,half-open,closed,half-open probes succeeded,0.0
+1119.927,closed,open,consecutive failures,2.0
+1121.947,open,half-open,cooldown elapsed,0.0
+1121.979,half-open,closed,half-open probes succeeded,0.0
+1132.934,closed,open,consecutive failures,2.0
+1134.942,open,half-open,cooldown elapsed,0.0
+1134.975,half-open,closed,half-open probes succeeded,0.0
+1150.857,closed,open,consecutive failures,2.0
+1152.863,open,half-open,cooldown elapsed,0.0
+1152.880,half-open,closed,half-open probes succeeded,0.0
+1158.393,closed,open,consecutive failures,2.0
+1160.401,open,half-open,cooldown elapsed,0.0
+1160.435,half-open,closed,half-open probes succeeded,0.0
+1173.407,closed,open,consecutive failures,2.0
+1175.424,open,half-open,cooldown elapsed,0.0
+1175.460,half-open,closed,half-open probes succeeded,0.0
+1192.222,closed,open,consecutive failures,2.0
+1194.237,open,half-open,cooldown elapsed,0.0
+1194.268,half-open,closed,half-open probes succeeded,0.0
+1242.984,closed,open,consecutive failures,2.0
+1244.989,open,half-open,cooldown elapsed,0.0
+1245.022,half-open,closed,half-open probes succeeded,0.0
+1292.639,closed,open,consecutive failures,2.0
+1294.650,open,half-open,cooldown elapsed,0.0
+1294.683,half-open,closed,half-open probes succeeded,0.0
+1342.855,closed,open,consecutive failures,2.0
+1344.859,open,half-open,cooldown elapsed,0.0
+1344.888,half-open,closed,half-open probes succeeded,0.0
+1393.561,closed,open,consecutive failures,2.0
+1395.575,open,half-open,cooldown elapsed,0.0
+1395.604,half-open,closed,half-open probes succeeded,0.0
+1443.288,closed,open,consecutive failures,2.0
+1445.293,open,half-open,cooldown elapsed,0.0
+1445.326,half-open,closed,half-open probes succeeded,0.0
+1493.621,closed,open,consecutive failures,2.0
+1495.623,open,half-open,cooldown elapsed,0.0
+1495.656,half-open,closed,half-open probes succeeded,0.0
+1543.621,closed,open,consecutive failures,2.0
+1545.641,open,half-open,cooldown elapsed,0.0
+1545.674,half-open,closed,half-open probes succeeded,0.0
+1593.868,closed,open,consecutive failures,2.0
+1595.882,open,half-open,cooldown elapsed,0.0
+1595.913,half-open,closed,half-open probes succeeded,0.0
+1646.217,closed,open,consecutive failures,2.0
+1648.221,open,half-open,cooldown elapsed,0.0
+1648.252,half-open,closed,half-open probes succeeded,0.0
+1696.751,closed,open,consecutive failures,2.0
+1698.770,open,half-open,cooldown elapsed,0.0
+1698.793,half-open,closed,half-open probes succeeded,0.0
+1747.002,closed,open,consecutive failures,2.0
+1749.019,open,half-open,cooldown elapsed,0.0
+1749.048,half-open,closed,half-open probes succeeded,0.0
+1797.887,closed,open,consecutive failures,2.0
+1799.907,open,half-open,cooldown elapsed,0.0
+1799.936,half-open,closed,half-open probes succeeded,0.0
+1818.195,closed,open,consecutive failures,2.0
+1820.217,open,half-open,cooldown elapsed,0.0
+1820.249,half-open,closed,half-open probes succeeded,0.0
+1868.769,closed,open,consecutive failures,2.0
+1870.772,open,half-open,cooldown elapsed,0.0
+1870.805,half-open,closed,half-open probes succeeded,0.0
+1918.921,closed,open,consecutive failures,2.0
+1920.933,open,half-open,cooldown elapsed,0.0
+1920.957,half-open,closed,half-open probes succeeded,0.0
+1968.695,closed,open,consecutive failures,2.0
+1970.698,open,half-open,cooldown elapsed,0.0
+1970.732,half-open,closed,half-open probes succeeded,0.0
+2018.914,closed,open,consecutive failures,2.0
+2020.930,open,half-open,cooldown elapsed,0.0
+2020.961,half-open,closed,half-open probes succeeded,0.0
+2068.781,closed,open,consecutive failures,2.0
+2070.788,open,half-open,cooldown elapsed,0.0
+2070.819,half-open,closed,half-open probes succeeded,0.0
+2118.956,closed,open,consecutive failures,2.0
+2120.960,open,half-open,cooldown elapsed,0.0
+2120.991,half-open,closed,half-open probes succeeded,0.0
+2149.244,closed,open,consecutive failures,2.0
+2151.260,open,half-open,cooldown elapsed,0.0
+2151.295,half-open,closed,half-open probes succeeded,0.0
+2178.475,closed,open,consecutive failures,2.0
+2180.485,open,half-open,cooldown elapsed,0.0
+2180.515,half-open,closed,half-open probes succeeded,0.0
+2193.033,closed,open,consecutive failures,2.0
+2195.036,open,half-open,cooldown elapsed,0.0
+2195.061,half-open,closed,half-open probes succeeded,0.0
+2209.816,closed,open,consecutive failures,2.0
+2211.833,open,half-open,cooldown elapsed,0.0
+2211.868,half-open,closed,half-open probes succeeded,0.0
+2222.798,closed,open,consecutive failures,2.0
+2224.807,open,half-open,cooldown elapsed,0.0
+2224.844,half-open,closed,half-open probes succeeded,0.0
+2240.945,closed,open,consecutive failures,2.0
+2242.948,open,half-open,cooldown elapsed,0.0
+2242.984,half-open,closed,half-open probes succeeded,0.0
+2268.437,closed,open,consecutive failures,2.0
+2270.448,open,half-open,cooldown elapsed,0.0
+2270.486,half-open,closed,half-open probes succeeded,0.0
+2293.241,closed,open,consecutive failures,2.0
+2295.260,open,half-open,cooldown elapsed,0.0
+2295.293,half-open,closed,half-open probes succeeded,0.0
+2306.152,closed,open,consecutive failures,2.0
+2308.168,open,half-open,cooldown elapsed,0.0
+2308.201,half-open,closed,half-open probes succeeded,0.0
+2324.672,closed,open,consecutive failures,2.0
+2326.687,open,half-open,cooldown elapsed,0.0
+2326.727,half-open,closed,half-open probes succeeded,0.0
+2344.546,closed,open,consecutive failures,2.0
+2346.548,open,half-open,cooldown elapsed,0.0
+2346.576,half-open,closed,half-open probes succeeded,0.0
+2434.642,closed,open,consecutive failures,2.0
+2436.650,open,half-open,cooldown elapsed,0.0
+2436.676,half-open,closed,half-open probes succeeded,0.0
+2484.867,closed,open,consecutive failures,2.0
+2486.873,open,half-open,cooldown elapsed,0.0
+2486.893,half-open,closed,half-open probes succeeded,0.0
+2534.391,closed,open,consecutive failures,2.0
+2536.394,open,half-open,cooldown elapsed,0.0
+2536.423,half-open,closed,half-open probes succeeded,0.0
+2584.727,closed,open,consecutive failures,2.0
+2586.747,open,half-open,cooldown elapsed,0.0
+2586.779,half-open,closed,half-open probes succeeded,0.0
+2685.778,closed,open,consecutive failures,2.0
+2687.784,open,half-open,cooldown elapsed,0.0
+2687.805,half-open,closed,half-open probes succeeded,0.0
+2736.590,closed,open,consecutive failures,2.0
+2738.594,open,half-open,cooldown elapsed,0.0
+2738.620,half-open,closed,half-open probes succeeded,0.0
+2786.846,closed,open,consecutive failures,2.0
+2788.847,open,half-open,cooldown elapsed,0.0
+2788.880,half-open,closed,half-open probes succeeded,0.0
+2836.914,closed,open,consecutive failures,2.0
+2838.918,open,half-open,cooldown elapsed,0.0
+2838.950,half-open,closed,half-open probes succeeded,0.0
+2886.339,closed,open,consecutive failures,2.0
+2888.343,open,half-open,cooldown elapsed,0.0
+2888.368,half-open,closed,half-open probes succeeded,0.0
+2936.607,closed,open,consecutive failures,2.0
+2938.616,open,half-open,cooldown elapsed,0.0
+2938.648,half-open,closed,half-open probes succeeded,0.0
+2987.545,closed,open,consecutive failures,2.0
+2989.550,open,half-open,cooldown elapsed,0.0
+2989.581,half-open,closed,half-open probes succeeded,0.0
+3037.885,closed,open,consecutive failures,2.0
+3039.892,open,half-open,cooldown elapsed,0.0
+3039.918,half-open,closed,half-open probes succeeded,0.0
+3087.411,closed,open,consecutive failures,2.0
+3089.417,open,half-open,cooldown elapsed,0.0
+3089.448,half-open,closed,half-open probes succeeded,0.0
+3137.764,closed,open,consecutive failures,2.0
+3139.783,open,half-open,cooldown elapsed,0.0
+3139.811,half-open,closed,half-open probes succeeded,0.0
+3227.141,closed,open,consecutive failures,2.0
+3229.160,open,half-open,cooldown elapsed,0.0
+3229.193,half-open,closed,half-open probes succeeded,0.0
+3317.730,closed,open,consecutive failures,2.0
+3319.737,open,half-open,cooldown elapsed,0.0
+3319.776,half-open,closed,half-open probes succeeded,0.0
+3365.016,closed,open,consecutive failures,2.0
+3367.018,open,half-open,cooldown elapsed,0.0
+3367.050,half-open,closed,half-open probes succeeded,0.0
+3415.696,closed,open,consecutive failures,2.0
+3417.697,open,half-open,cooldown elapsed,0.0
+3417.732,half-open,closed,half-open probes succeeded,0.0
+3465.755,closed,open,consecutive failures,2.0
+3467.773,open,half-open,cooldown elapsed,0.0
+3467.805,half-open,closed,half-open probes succeeded,0.0
+3540.578,closed,open,consecutive failures,2.0
+3542.581,open,half-open,cooldown elapsed,0.0
+3542.610,half-open,closed,half-open probes succeeded,0.0
+3590.937,closed,open,consecutive failures,2.0
+3592.945,open,half-open,cooldown elapsed,0.0
+3592.978,half-open,closed,half-open probes succeeded,0.0
+3640.652,closed,open,consecutive failures,2.0
+3642.656,open,half-open,cooldown elapsed,0.0
+3642.687,half-open,closed,half-open probes succeeded,0.0
+3691.318,closed,open,consecutive failures,2.0
+3693.328,open,half-open,cooldown elapsed,0.0
+3693.365,half-open,closed,half-open probes succeeded,0.0
+3741.714,closed,open,consecutive failures,2.0
+3743.731,open,half-open,cooldown elapsed,0.0
+3743.765,half-open,closed,half-open probes succeeded,0.0
+3791.737,closed,open,consecutive failures,2.0
+3793.754,open,half-open,cooldown elapsed,0.0
+3793.790,half-open,closed,half-open probes succeeded,0.0
+3842.181,closed,open,consecutive failures,2.0
+3844.188,open,half-open,cooldown elapsed,0.0
+3844.220,half-open,closed,half-open probes succeeded,0.0
+3892.772,closed,open,consecutive failures,2.0
+3894.783,open,half-open,cooldown elapsed,0.0
+3894.818,half-open,closed,half-open probes succeeded,0.0
+3968.800,closed,open,consecutive failures,2.0
+3970.818,open,half-open,cooldown elapsed,0.0
+3970.854,half-open,closed,half-open probes succeeded,0.0
+4018.626,closed,open,consecutive failures,2.0
+4020.629,open,half-open,cooldown elapsed,0.0
+4020.667,half-open,closed,half-open probes succeeded,0.0
+4068.621,closed,open,consecutive failures,2.0
+4070.630,open,half-open,cooldown elapsed,0.0
+4070.661,half-open,closed,half-open probes succeeded,0.0
+4121.793,closed,open,consecutive failures,2.0
+4123.794,open,half-open,cooldown elapsed,0.0
+4123.827,half-open,closed,half-open probes succeeded,0.0
+4171.511,closed,open,consecutive failures,2.0
+4173.529,open,half-open,cooldown elapsed,0.0
+4173.569,half-open,closed,half-open probes succeeded,0.0
+4221.362,closed,open,consecutive failures,2.0
+4223.364,open,half-open,cooldown elapsed,0.0
+4223.402,half-open,closed,half-open probes succeeded,0.0
+4271.773,closed,open,consecutive failures,2.0
+4273.777,open,half-open,cooldown elapsed,0.0
+4273.801,half-open,closed,half-open probes succeeded,0.0
+4346.997,closed,open,consecutive failures,2.0
+4349.001,open,half-open,cooldown elapsed,0.0
+4349.036,half-open,closed,half-open probes succeeded,0.0
+4397.568,closed,open,consecutive failures,2.0
+4399.576,open,half-open,cooldown elapsed,0.0
+4399.609,half-open,closed,half-open probes succeeded,0.0
+4447.483,closed,open,consecutive failures,2.0
+4449.491,open,half-open,cooldown elapsed,0.0
+4449.528,half-open,closed,half-open probes succeeded,0.0
+4497.603,closed,open,consecutive failures,2.0
+4499.623,open,half-open,cooldown elapsed,0.0
+4499.657,half-open,closed,half-open probes succeeded,0.0
+4547.483,closed,open,consecutive failures,2.0
+4549.497,open,half-open,cooldown elapsed,0.0
+4549.537,half-open,closed,half-open probes succeeded,0.0
+4597.834,closed,open,consecutive failures,2.0
+4599.844,open,half-open,cooldown elapsed,0.0
+4599.884,half-open,closed,half-open probes succeeded,0.0
+4647.363,closed,open,consecutive failures,2.0
+4649.363,open,half-open,cooldown elapsed,0.0
+4649.392,half-open,closed,half-open probes succeeded,0.0
+4695.948,closed,open,consecutive failures,2.0
+4697.969,open,half-open,cooldown elapsed,0.0
+4698.010,half-open,closed,half-open probes succeeded,0.0
+4725.211,closed,open,consecutive failures,2.0
+4727.217,open,half-open,cooldown elapsed,0.0
+4727.249,half-open,closed,half-open probes succeeded,0.0
+4758.677,closed,open,consecutive failures,2.0
+4760.695,open,half-open,cooldown elapsed,0.0
+4760.721,half-open,closed,half-open probes succeeded,0.0
+4775.688,closed,open,consecutive failures,2.0
+4777.700,open,half-open,cooldown elapsed,0.0
+4777.735,half-open,closed,half-open probes succeeded,0.0
+4825.431,closed,open,consecutive failures,2.0
+4827.443,open,half-open,cooldown elapsed,0.0
+4827.464,half-open,closed,half-open probes succeeded,0.0
+4875.386,closed,open,consecutive failures,2.0
+4877.400,open,half-open,cooldown elapsed,0.0
+4877.432,half-open,closed,half-open probes succeeded,0.0
+4925.235,closed,open,consecutive failures,2.0
+4927.249,open,half-open,cooldown elapsed,0.0
+4927.273,half-open,closed,half-open probes succeeded,0.0
+4974.897,closed,open,consecutive failures,2.0
+4976.904,open,half-open,cooldown elapsed,0.0
+4976.938,half-open,closed,half-open probes succeeded,0.0
+5024.582,closed,open,consecutive failures,2.0
+5026.594,open,half-open,cooldown elapsed,0.0
+5026.612,half-open,closed,half-open probes succeeded,0.0
+5074.339,closed,open,consecutive failures,2.0
+5076.339,open,half-open,cooldown elapsed,0.0
+5076.364,half-open,closed,half-open probes succeeded,0.0
+5124.558,closed,open,consecutive failures,2.0
+5126.561,open,half-open,cooldown elapsed,0.0
+5126.594,half-open,closed,half-open probes succeeded,0.0
+5174.880,closed,open,consecutive failures,2.0
+5176.886,open,half-open,cooldown elapsed,0.0
+5176.920,half-open,closed,half-open probes succeeded,0.0
+5225.540,closed,open,consecutive failures,2.0
+5227.551,open,half-open,cooldown elapsed,0.0
+5227.586,half-open,closed,half-open probes succeeded,0.0
+5275.342,closed,open,consecutive failures,2.0
+5277.358,open,half-open,cooldown elapsed,0.0
+5277.392,half-open,closed,half-open probes succeeded,0.0
+5325.707,closed,open,consecutive failures,2.0
+5327.719,open,half-open,cooldown elapsed,0.0
+5327.747,half-open,closed,half-open probes succeeded,0.0
+5375.504,closed,open,consecutive failures,2.0
+5377.507,open,half-open,cooldown elapsed,0.0
+5377.533,half-open,closed,half-open probes succeeded,0.0
+5425.979,closed,open,consecutive failures,2.0
+5427.987,open,half-open,cooldown elapsed,0.0
+5428.018,half-open,closed,half-open probes succeeded,0.0
+5475.859,closed,open,consecutive failures,2.0
+5477.859,open,half-open,cooldown elapsed,0.0
+5477.888,half-open,closed,half-open probes succeeded,0.0
+5525.827,closed,open,consecutive failures,2.0
+5527.831,open,half-open,cooldown elapsed,0.0
+5527.862,half-open,closed,half-open probes succeeded,0.0
+5600.273,closed,open,consecutive failures,2.0
+5602.280,open,half-open,cooldown elapsed,0.0
+5602.312,half-open,closed,half-open probes succeeded,0.0
+5650.578,closed,open,consecutive failures,2.0
+5652.588,open,half-open,cooldown elapsed,0.0
+5652.617,half-open,closed,half-open probes succeeded,0.0
+5725.890,closed,open,consecutive failures,2.0
+5727.900,open,half-open,cooldown elapsed,0.0
+5727.924,half-open,closed,half-open probes succeeded,0.0
+5775.735,closed,open,consecutive failures,2.0
+5777.740,open,half-open,cooldown elapsed,0.0
+5777.771,half-open,closed,half-open probes succeeded,0.0
+5825.368,closed,open,consecutive failures,2.0
+5827.374,open,half-open,cooldown elapsed,0.0
+5827.398,half-open,closed,half-open probes succeeded,0.0
+5875.558,closed,open,consecutive failures,2.0
+5877.573,open,half-open,cooldown elapsed,0.0
+5877.606,half-open,closed,half-open probes succeeded,0.0
+5925.928,closed,open,consecutive failures,2.0
+5927.946,open,half-open,cooldown elapsed,0.0
+5927.978,half-open,closed,half-open probes succeeded,0.0
+5975.382,closed,open,consecutive failures,2.0
+5977.400,open,half-open,cooldown elapsed,0.0
+5977.435,half-open,closed,half-open probes succeeded,0.0
+6065.602,closed,open,consecutive failures,2.0
+6067.615,open,half-open,cooldown elapsed,0.0
+6067.650,half-open,closed,half-open probes succeeded,0.0
+6115.216,closed,open,consecutive failures,2.0
+6117.233,open,half-open,cooldown elapsed,0.0
+6117.264,half-open,closed,half-open probes succeeded,0.0
+6165.446,closed,open,consecutive failures,2.0
+6167.449,open,half-open,cooldown elapsed,0.0
+6167.484,half-open,closed,half-open probes succeeded,0.0
+6215.762,closed,open,consecutive failures,2.0
+6217.775,open,half-open,cooldown elapsed,0.0
+6217.808,half-open,closed,half-open probes succeeded,0.0
+6265.665,closed,open,consecutive failures,2.0
+6267.670,open,half-open,cooldown elapsed,0.0
+6267.700,half-open,closed,half-open probes succeeded,0.0
+6315.860,closed,open,consecutive failures,2.0
+6317.862,open,half-open,cooldown elapsed,0.0
+6317.893,half-open,closed,half-open probes succeeded,0.0
+6404.358,closed,open,consecutive failures,2.0
+6406.368,open,half-open,cooldown elapsed,0.0
+6406.400,half-open,closed,half-open probes succeeded,0.0
+6454.603,closed,open,consecutive failures,2.0
+6456.618,open,half-open,cooldown elapsed,0.0
+6456.650,half-open,closed,half-open probes succeeded,0.0
+6504.683,closed,open,consecutive failures,2.0
+6506.703,open,half-open,cooldown elapsed,0.0
+6506.734,half-open,closed,half-open probes succeeded,0.0
+6554.882,closed,open,consecutive failures,2.0
+6556.901,open,half-open,cooldown elapsed,0.0
+6556.917,half-open,closed,half-open probes succeeded,0.0
+6604.611,closed,open,consecutive failures,2.0
+6606.613,open,half-open,cooldown elapsed,0.0
+6606.647,half-open,closed,half-open probes succeeded,0.0
+6654.977,closed,open,consecutive failures,2.0
+6656.982,open,half-open,cooldown elapsed,0.0
+6657.017,half-open,closed,half-open probes succeeded,0.0
+6704.644,closed,open,consecutive failures,2.0
+6706.659,open,half-open,cooldown elapsed,0.0
+6706.681,half-open,closed,half-open probes succeeded,0.0
+6755.670,closed,open,consecutive failures,2.0
+6757.682,open,half-open,cooldown elapsed,0.0
+6757.706,half-open,closed,half-open probes succeeded,0.0
+6805.396,closed,open,consecutive failures,2.0
+6807.408,open,half-open,cooldown elapsed,0.0
+6807.439,half-open,closed,half-open probes succeeded,0.0
+6855.706,closed,open,consecutive failures,2.0
+6857.723,open,half-open,cooldown elapsed,0.0
+6857.748,half-open,closed,half-open probes succeeded,0.0
+6945.573,closed,open,consecutive failures,2.0
+6947.590,open,half-open,cooldown elapsed,0.0
+6947.622,half-open,closed,half-open probes succeeded,0.0
+6995.845,closed,open,consecutive failures,2.0
+6997.851,open,half-open,cooldown elapsed,0.0
+6997.877,half-open,closed,half-open probes succeeded,0.0
+7071.568,closed,open,consecutive failures,2.0
+7073.588,open,half-open,cooldown elapsed,0.0
+7073.621,half-open,closed,half-open probes succeeded,0.0
+7146.966,closed,open,consecutive failures,2.0
+7148.986,open,half-open,cooldown elapsed,0.0
+7149.017,half-open,closed,half-open probes succeeded,0.0
+7196.930,closed,open,consecutive failures,2.0
+7198.950,open,half-open,cooldown elapsed,0.0
+7198.983,half-open,closed,half-open probes succeeded,0.0

@@ -1,0 +1,11 @@
+data/
+# Binarios compilados en la raiz (anclados con / para no excluir cmd/producer y cmd/consumer)
+/producer
+/consumer
+*.exe
+.env
+.DS_Store
+.venv/
+__pycache__/
+# Material del curso (instrucciones), no es parte del proyecto
+Ejercicio GO 04/
